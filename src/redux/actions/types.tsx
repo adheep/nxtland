@@ -1,0 +1,39 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const FETCH_POSTS = "FETCH_POSTS";
+export const GET_CONVERSION_RATE = "GET_CONVERSION_RATE";
+export const GET_USD_RATE = "GET_USD_RATE";
+export const TOGGLE_PANEL = "TOGGLE_PANEL";
+export const GET_EUR_RATE = "GET_EUR_RATE";
+export const GET_MODEL = "GET_MODEL";
+export const VIN_VALIDATE = "VIN_VALIDATE";
+export const SAVE_CONTRACT = "SAVE_CONTRACT";
+export const DEPLOY_CONTRACT = "DEPLOY_CONTRACT";
+export const RESET_EVENT="RESET_EVENT";
+export const RESET_FAILED ="RESET_FAILED";
+export const RESET_SUCCESS = "RESET_SUCCESS";
+export const OTP_RESET_SUCCESS = "OTP_RESET_SUCCESS";
+export const OTP_RESET_FAILED = "OTP_RESET_FAILED";
+export const RESET_VALUES = "RESET_VALUES";
+export const SET_WALLET_DETAILS = "SET_WALLET_DETAILS";
+// change password
+export const CHANGE_PASSWORD = "CHANGE_PASSWORD";
+//language
+export const LANGUAGE = "LANGUAGE";
+//profile update
+export const UPDATE_PROFILE = "UPDATE_PROFILE";
+export const META_DATA = "META_DATA";
+export const SYSCHECK_PASSED = "SYSCHECK_PASSED";
+export const SYSCHECK_FAILED = "SYSCHECK_FAILED";
+export const SYSCHECK_CHAT = "SYSCHECK_CHAT";
+export const SYSCHECK_INIT = "SYSCHECK_FAILED";
+export const WEBGL_LOGOUT = "WEBGL_LOGOUT";
+//Register
+export const REGISTER_USER = 'REGISTER_USER';
+export const REGISTRATION_FAILED = 'REGISTRATION_FAILED';
+export const REGISTRATION_SUCCESS = 'REGISTRATION_SUCCESS';
+export const LOAD_DASHBOARD = 'LOAD_DASHBOARD';
+export const OTP_VALIDATION_SUCCESS ='OTP_VALIDATION_SUCCESS';
+export const OTP_VALIDATION_FAILURE = 'OTP_VALIDATION_FAILURE';
+export const LOAD_EVENTS = 'LOAD_EVENTS'
+export const CONFIGURE_EVENT = 'CONFIGURE_EVENT'

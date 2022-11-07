@@ -1,0 +1,61 @@
+{
+  "buttons": {
+    "learn_more":"Apprendre encore plus",
+    "login_now": "Connecte-toi maintenant",
+    "update_password":"Mettre à jour le mot de passe",
+    "edit":"Éditer",
+    "update":"Mise à jour",
+    "cancel":"Annuler"
+  },
+  "alert_messages": {
+    "please_enter_email": "Veuillez saisir votre e-mail",
+    "email_maximum":"L'e-mail doit accepter au maximum 35 caractères",
+    "email_minimum":"L'e-mail doit contenir au moins 4 caractères",
+    "please_enter_password": "Veuillez entrer le mot de passe",
+    "password_maximum":"Le mot de passe doit accepter au maximum 25 caractères",
+    "password_minimum":"Le mot de passe doit contenir au moins 5 caractères"
+  },
+  "error_messages": {
+    "login_error_message": "Le nom d'utilisateur et le mot de passe ne correspondent pas",
+    "captcha_error_message":"le champ captcha est obligatoire",
+    "password_mismatch":"Non concordance des mots de passe",
+    "enter_correct_details":"Entrez les détails corrects"
+  },
+  "sucess_messages": {
+    "password_update": "Mot de passe mis à jour avec succès",
+    "profile_update": "Profil mis à jour avec succès"
+  },
+  "labels": {
+    "welcome_to": "Bienvenue à",
+    "expleo":"Expleo",
+    "autoqba":"Auto-Q BA débarquement",
+    "on_off_boarding": "Demande d'embarquement et de débarquement",
+    "framework":"Cadre de développement",
+    "access_application_forever":"100% composants bien testés, modulaires et réutilisables",
+    "login":"S'identifier",
+    "login_information":"Authentification basée sur JWT (privé / public) utilisant la protection de cryptage par mot de passe unidirectionnel MD5 contre l'injection de suite, les attaques XSS",
+    "email_address":"Adresse électronique",
+    "password":"Mot de passe",
+    "captcha_framework":"Cadre captcha configurable pour empêcher les attaques de bots ou de dos",
+    "forgot_password":"Mot de passe oublié?",
+    "old_password":"ancien mot de passe",
+    "new_password":"nouveau mot de passe",
+    "confirm_password":"Confirmez le mot de passe",
+    "first_name":"Prénom",
+    "middle_name":"Deuxième nom",
+    "last_name":"Nom de famille",
+    "i18n":"Internationalisation avec i18n",
+    "framework_use":"Pourquoi utiliser notre Framework?",
+    "techstack":"1. Un framework bootstrap bien orchestré pour une pile technologique célèbre comme MEAN, MERN et la plate-forme mobile",
+    "build_based":"2. Ce cadre est construit sur la base de principes solides et de modularité. Chaque composant et fonctionnalités sont construits par le modèle plug-n play, il est donc facile de personnaliser ou de mettre à niveau les fonctionnalités individuelles",
+    "management":"3. Les modules Authentication, Authorization, Usermanagement et Rolemanagement sont pré-construits. Construire une application autour de ces fonctionnalités communes est très simple et rapide",
+    "testing_module":"4. Mise en page de l'interface utilisateur, navigation, gestion des données d'une page à l'autre, module de test unitaire et module de test de sécurité sont prédéfinis. Les développeurs peuvent commencer avec une plateforme robuste qui leur donne un coup de pouce dans le développement d'applications",
+    "service":"5. ExDesigner, est un outil d'orchestration de services basé sur javascript. La conception d'API complexes peut être effectuée en quelques minutes à l'aide d'une interface utilisateur très intuitive avec des fonctionnalités de glisser-déposer"
+  },
+  "breadcrumbs": {
+    "home":"AccueilV",
+    "change_password":"Changer le mot de passe",
+    "edit_profile":"Editer le profil",
+    "view_profile":"Voir le profil"
+  }
+}

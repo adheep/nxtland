@@ -1,0 +1,38 @@
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+.move {
+	transform: translatey(0px);
+	animation: float 6s ease-in-out infinite;
+}
+
+.nlc-land-logo {
+	width: 610px!important;
+}
+
+@media (max-width: 767px) {
+
+	.nlc-land-logo {
+		width: 500px!important;
+		margin: -30%;
+	}
+
+}
+
+.leftbox {
+	float:left; 
+	width:40%;
+}
+.middlebox{
+	float:left; 
+	width:100px!important;
+}

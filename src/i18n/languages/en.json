@@ -1,0 +1,62 @@
+{
+  "buttons": {
+    "learn_more":"Learn More",
+    "login_now": "Login Now",
+    "update_password":"Update Password",
+    "edit":"Edit",
+    "update":"Update",
+    "cancel":"Cancel"
+  },
+  "alert_messages": {
+    "please_enter_email": "Please enter Email",
+    "email_maximum":"Email should be accept maximum 35 characters",
+    "email_minimum":"Email should be minimum 4 characters",
+    "please_enter_password": "Please enter Password",
+    "password_maximum":"Password should be accept maximum 25 characters",
+    "password_minimum":"Password should be minimum 5 characters"
+  },
+  "error_messages": {
+    "login_error_message": "Username and password does not match",
+    "captcha_error_message":"captcha field is required",
+    "password_mismatch":"Password Mismatch",
+    "enter_correct_details":"Enter correct details"
+  },
+  "sucess_messages": {
+    "password_update": "Password Successfully updated",
+    "profile_update": "Profile Successfully updated"
+  },
+  "labels": {
+    "welcome_to": "Welcome to",
+    "expleo":"Expleo",
+    "autoqba":"Auto-Q BA Application",
+    "on_off_boarding": "On/Off boarding Application",
+    "framework":"Dev Framework",
+    "access_application_forever":"100% well tested, modular and reusable components",
+    "login":"Login",
+    "login_information":"JWT(private/public) based authentication using MD5 one way password encryption protection against sequel injection, XSS attacks",
+    "email_address":"Email Address",
+    "password":"Password",
+    "captcha_framework":"Configurable captcha framework to prevent bot or Dos attack",
+    "forgot_password":"Forgot password?",
+    "old_password":"Old Password",
+    "new_password":"New Password",
+    "confirm_password":"Confirm Password",
+    "first_name":"First Name",
+    "middle_name":"Middle Name",
+    "last_name":"Last Name",
+    "i18n":"Internationalization using i18n",
+    "framework_use":"Why use our Framework?",
+    "techstack":"A well orchestrated modular platform built using the best industry standard frameworks like MEAN, MERN and Mobile platform",
+    "build_based":"All components developed are built keeping SOLID principles and modularity as its core. Each component and features are built by plug-n play architecture hence it is easy to customize or upgrade individual features (ie) Captcha, Notification, Authentication, UI library etc",
+    "management": "Building rapid applications using pre-built features such as Authentication, Authorization, User management and Role management",
+    "zero_downtime":"Using the modular framework and factory pattern we can achieve ZERO downtime. Restarts are needed only when adding new features or change in core logic",
+    "testing_module":"UI Layout, Navigation, Data management from page to page, Unit testing and Security testing are pre-built. The developers can start with a robust platform which gives them a head boost into application development",
+    "service":"REO Designer, is a javascript based service orchestration tool. Designing complex API's can be done in matter of minutes using a very intutive UI with drag and drop features"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "change_password":"Change Password",
+    "edit_profile":"Edit Profile",
+    "view_profile":"View Profile"
+  }
+}

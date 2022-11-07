@@ -1,0 +1,50 @@
+.Card-new {
+  width: 325px !important;
+  height: 470px !important;
+  margin: 2% !important;
+  box-shadow: 0px 6px 14px -6px rgba(24, 39, 75, 0.12),
+    0px 10px 32px -4px rgba(24, 39, 75, 0.1) !important;
+  border-radius: 10px !important;
+  /* transition: transform 0.5s !important; */
+
+
+}
+.Card-new:hover {
+  transform: scale(1.03) !important;
+}
+
+.card-header1 {
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  max-height: 3.2rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+}
+
+.button2 {
+  background-color: 	#ffffff;
+  border: 1px solid #794DF5;
+  font-size: 16px;
+  font-weight: 520;
+  border-radius: 5px;
+  color: #794DF5;
+  width: 120px;
+  height: 35px;
+
+}
+
+.button2:hover {
+  background-color: #794DF5;
+  color: white;
+}
+
+.App {
+  margin-left: 15%;
+  display: flex;
+  /* margin-left: -150px;
+  margin-top: -100px; */
+}

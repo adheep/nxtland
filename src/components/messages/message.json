@@ -1,0 +1,6 @@
+{
+    "loginErrorMessage": "Username and password does not match",
+    "commonError": "Server busy, please try again later",
+    "policySuccessMessage": "Policy created! Click <a>here</a> to view Policy details",
+    "captchaErrorMessage":"captcha field is required"
+}
