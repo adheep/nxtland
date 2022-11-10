@@ -13,20 +13,18 @@
   <a href="https://github.com/adheep">
     <img src="https://nxtland.io/static/media/nlc_land_logo.3ca716d8.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
+ Use
+  <h3 align="center">NxtLand - Open Metaverse</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Real open metaverse where you can attend virutal events as your NFT avatars!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://beta.nxtland.io">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/adheep/nxtland/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/adheep/nxtland/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,18 +61,28 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://beta.nxtland.io)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+NxtLand is a platform where people interacting. In Metaverse (a virtual 3D environment) on the Web & Mobile, rather  than meeting in a physical location using Virutal Avatars.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+To understand this, imagine having any event, like a  Conference, trade shows, expos, career  fairs, social gatherings, hybrid events & company meetings etc, People 
+need to pack, travel & book accommodation  to a particular location. In NxtLand you can host or attend it sitting at home virtually and experience the bliss of 
+going digital by a Virtual Experience.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Our platform is ready and live now, We are looking for Funding to extend our Platform features and to support.
 
-Use the `BLANK_README.md` to get started.
+Next Level of Virtual Experience in Below new Area which is new to market :
+
+* Virtual School 
+* Election Campaigns  
+* Play and Earn Games
+
+NxtLand is built using Polygon network and it doesn’t require any PII information for authentication. Login with just your crypto wallet like Metamask, Coinbase, or any other Web3 wallets. The user is authorized only if they possess a valid NxtLandClub (NLC) NFT. No personal information is stored in the servers. User preferences are maintained locally on the device for ease of use, which the user can chose to discard anytime
+
+The platform supports ability to add Ads and post sponsored content on the walls and banners without affecting the user experience
+
+Come and enjoy this virtual world with your buddies.YES! We support multi-user collaboration
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +92,6 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -155,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/adheep/nxtland/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,25 +226,25 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/adheep/nxtland.svg?style=for-the-badge
+[contributors-url]: https://github.com/adheep/nxtland/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adheep/nxtland.svg?style=for-the-badge
+[forks-url]: https://github.com/adheep/nxtland/network/members
+[stars-shield]: https://img.shields.io/github/stars/adheep/nxtland.svg?style=for-the-badge
+[stars-url]: https://github.com/adheep/nxtland/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adheep/nxtland.svg?style=for-the-badge
+[issues-url]: https://github.com/adheep/nxtland/issues
+[license-shield]: https://img.shields.io/github/license/adheep/nxtland.svg?style=for-the-badge
+[license-url]: https://github.com/adheep/nxtland/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/adheep
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+[Vue.js]: https://img.shields.io/badge/Unity-35495E?style=for-the-badge&logo=unity&logoColor=4FC08D
+[Vue-url]: https://unity.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
