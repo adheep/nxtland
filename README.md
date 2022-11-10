@@ -107,25 +107,25 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To run this example, please make sure you have the following prerequisites setup
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you have the latest Node Package Manager (npm) installed.
 * npm
   ```sh
   npm install npm@latest -g
   ```
+* node v4.x
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can install and setup the app_
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://moralis.io/](https://moralis.io/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/adheep/nxtland.git
    ```
 3. Install NPM packages
    ```sh
@@ -143,9 +143,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Here is a quick demo on how to Sign-In to NxtLand just using any Web3 wallet like Metamask, Coinbase etc. Watch the video for more features
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more details, please refer to the [Demo Video](https://www.youtube.com/watch?v=HWh5Nq8nUaw&lc=UgwFEeh1Oo3dOCaAJ7B4AaABAg)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,10 +154,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Add Voice chat
+- [x] Add Human motions
+- [ ] Buy/Sell land parcels
+- [ ] Buy/Sell in-app assets and redeem NLC tokens
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
@@ -198,9 +198,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@mrmadmeta](https://twitter.com/mrmadmeta)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/adheep](https://github.com/adheep)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
