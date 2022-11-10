@@ -11,13 +11,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/adheep">
-    <img src="https://nxtland.io/static/media/nlc_land_logo.3ca716d8.png" alt="Logo" width="80" height="80">
+    <img src="https://nxtland.io/static/media/nlc_land_logo.3ca716d8.png" alt="Logo" width="160" height="160">
   </a>
- Use
   <h3 align="center">NxtLand - Open Metaverse</h3>
 
   <p align="center">
-    Real open metaverse where you can attend virutal events as your NFT avatars!
+    Real open metaverse where you can attend virutal events as your NFT avatars. Built on top of Polygon and Ethereum!
     <br />
     <br />
     <a href="https://beta.nxtland.io">View Demo</a>
